@@ -3,7 +3,7 @@ import ShopItem from "./ShopItem";
 import ShopList from "./ShopList";
 
 function App() {
-  return
+  return ShopInput();
 }
 
 export default App
